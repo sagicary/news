@@ -24,3 +24,36 @@
 .news{
 	padding-bottom: 20px;
 }
+header{
+	padding-top: 30px;
+}
+.icon-bar{
+	color: #E94F55;
+}
+.headImg1{
+	background-image: url(../img/1.png);
+	background-size: cover;
+	height: 50vh;
+	background-position: center center;
+
+}
+.headImg2{
+	background-image: url(../img/6.png);
+	background-size: cover;
+	height: 50vh;
+	background-position: center center;
+}
+.headImg3{
+	background-image: url(../img/10.png);
+	background-size: cover;
+	height: 50vh;
+	background-position: center center;
+}
+.headImg4{
+	background-image: url(../img/12.png);
+	background-size: cover;
+	height: 50vh;
+	background-position: center center;
+}
+
+/*1-6-10-12*/
