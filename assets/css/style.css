@@ -4,5 +4,23 @@
 	font-family: 'Merriweather Sans';
 }
 .rojo{
-	color: red;
+	color: 	#E94F55;
+}
+.navbar-default{
+	background-color: transparent;
+	border: transparent;
+}
+.borderojo{
+	border-top: 1px solid 	#E94F55;
+}
+.btn-rojo{
+	background-color: #E94F55;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+.glyphicon-search{
+	color: white;
+}
+.news{
+	padding-bottom: 20px;
 }
